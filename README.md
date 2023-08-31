@@ -4,7 +4,7 @@ Portifólio pessoal
 ## Tarefas
 
 - [X] Header
-- [ ] Apresentação
+- [x] Apresentação
 - [ ] Projetos
 - [ ] Orçamento
 - [ ] Menu
