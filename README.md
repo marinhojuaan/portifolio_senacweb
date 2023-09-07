@@ -5,7 +5,7 @@ Portifólio pessoal
 
 - [X] Header
 - [x] Apresentação
-- [ ] Projetos
+- [X] Projetos
 - [ ] Orçamento
 - [ ] Menu
 - [ ] Responsividade
